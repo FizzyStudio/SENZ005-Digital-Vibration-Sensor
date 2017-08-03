@@ -2,11 +2,11 @@
 
 ###### Translation
 
-> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/README.md)
+> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ005-Digital-Vibration-Sensor/blob/master/README.md)
 
-> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/README_CN.md)
+> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ005-Digital-Vibration-Sensor/blob/master/README_CN.md)
 
-![](https://github.com/FizzyStudio/SENZ002_Analog-Piezo-Disk-Vibration-Sensor/blob/master/pic/SENZ002.jpg "SENZ002") 
+![](https://github.com/FizzyStudio/SENZ005-Digital-Vibration-Sensor/blob/master/pic/SENZ005.jpg "SENZ005") 
 
 ### Introduction
 
@@ -32,6 +32,7 @@
 
 #### Connection Diagram
 
+![](https://github.com/FizzyStudio/SENZ005-Digital-Vibration-Sensor/blob/master/pic/SENZ005_2.png "Connection") 
 
 #### Sample Code
 
