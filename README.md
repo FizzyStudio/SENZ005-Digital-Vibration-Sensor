@@ -10,7 +10,7 @@
 
 ### Introduction
 
-> What's the simplest way to check vibration with Arduino? Use a vibration sensor from DFRobot. You can directly plug it on our IO Expesion Shield V7. Just vibrate this sensor, Arduino can receive a digital signal. It's easy to acount and program in Arduino.
+> What's the simplest way to check vibration with Arduino? Use a vibration sensor from Fizzy. Just vibrate this sensor, Arduino can receive a digital signal. It's easy to acount and program in Arduino.
 > Despite it's simple, you can make full use of it with creative thinking, like step counting, Crash warning light and so on.
 
 ### Specification
